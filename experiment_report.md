@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-XXXX
+**Student ID:** 2A202600280
 **Name:** Phan Thanh Sang
 **Date:** 2026-04-15
 
